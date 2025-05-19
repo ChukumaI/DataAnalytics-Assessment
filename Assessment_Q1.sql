@@ -1,5 +1,5 @@
--- Q1: Customers with both savings and investment plans
--- Show their total savings deposit and count of each product
+Q1: Customers with both savings and investment plans
+Show their total savings deposit and count of each product
 
 SELECT 
     u.id AS owner_id,
